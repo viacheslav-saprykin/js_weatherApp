@@ -5,4 +5,4 @@ This App was built using the following technologies:
 - JavaScript
 - Api
 
-You can view it at the link [Minimal JS weather App](https://viacheslav-saprykin.github.io/js_weatherapp).
+You can view it at the link [Minimal JS weather App](https://viacheslav-saprykin.github.io/js_weatherApp/).
